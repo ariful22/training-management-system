@@ -1,0 +1,38 @@
+[01-Aug-2018 02:14:10 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/freelan1/public_html/borno/application/controllers/Stsearch.php on line 65
+[01-Aug-2018 02:15:05 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/freelan1/public_html/borno/application/controllers/Stsearch.php on line 65
+[01-Aug-2018 13:23:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/freelan1/public_html/borno/application/views/front/std_info.php on line 280
+[01-Aug-2018 13:31:10 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freelan1/public_html/borno/application/views/front/std_info.php on line 48
+[02-Aug-2018 22:07:39 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freelan1/public_html/borno/application/views/front/std_info.php on line 48
+[04-Aug-2018 17:30:33 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/freelan1/public_html/borno/application/controllers/Students.php on line 92
+[07-Aug-2018 14:17:14 Asia/Dhaka] PHP Fatal error:  Call to undefined function model() in /home/freelan1/public_html/borno/application/controllers/Courses.php on line 9
+[07-Aug-2018 14:17:50 Asia/Dhaka] PHP Fatal error:  Call to undefined method Course_model::get_rows() in /home/freelan1/public_html/borno/application/controllers/Courses.php on line 20
+[07-Aug-2018 14:33:52 Asia/Dhaka] PHP Fatal error:  Call to a member function delete_by_id() on null in /home/freelan1/public_html/borno/application/controllers/Courses.php on line 77
+[08-Aug-2018 19:07:39 Asia/Dhaka] PHP Fatal error:  Call to a member function get_rows() on null in /home/freelan1/public_html/borno/application/controllers/Finance.php on line 19
+[08-Aug-2018 20:00:52 Asia/Dhaka] PHP Fatal error:  Call to a member function get_rows() on null in /home/freelan1/public_html/borno/application/controllers/Students.php on line 19
+[10-Aug-2018 16:25:19 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/freelan1/public_html/borno/application/controllers/Students.php on line 83
+[10-Aug-2018 16:53:46 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/freelan1/public_html/borno/application/controllers/Students.php on line 93
+[10-Aug-2018 16:54:23 Asia/Dhaka] PHP Fatal error:  Call to a member function do_upload() on null in /home/freelan1/public_html/borno/application/controllers/Students.php on line 62
+[10-Aug-2018 17:14:09 Asia/Dhaka] PHP Fatal error:  Call to a member function update() on null in /home/freelan1/public_html/borno/application/controllers/Students.php on line 144
+[10-Aug-2018 23:15:23 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '$data' (T_VARIABLE), expecting function (T_FUNCTION) in /home/freelan1/public_html/borno/application/controllers/Students.php on line 76
+[12-Aug-2018 16:24:00 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '->' (T_OBJECT_OPERATOR) in /home/freelan1/public_html/borno/application/controllers/Students.php on line 113
+[12-Aug-2018 17:40:24 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freelan1/public_html/borno/application/views/admin/admin_panel.php on line 56
+[12-Aug-2018 17:55:21 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freelan1/public_html/borno/application/views/admin/student_edit.php on line 13
+[12-Aug-2018 18:02:55 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freelan1/public_html/borno/application/views/admin/student_edit.php on line 75
+[12-Aug-2018 23:47:29 Asia/Dhaka] PHP Fatal error:  Call to a member function is_logged_in() on null in /home/freelan1/public_html/borno/application/controllers/Dashboard.php on line 11
+[12-Aug-2018 23:59:09 Asia/Dhaka] PHP Fatal error:  Call to a member function search() on null in /home/freelan1/public_html/borno/application/controllers/Stsearch.php on line 54
+[14-Aug-2018 00:54:09 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/freelan1/public_html/borno/application/views/admin/student_edit.php on line 78
+[14-Aug-2018 00:55:35 Asia/Dhaka] PHP Parse error:  syntax error, unexpected 'unset' (T_UNSET) in /home/freelan1/public_html/borno/application/views/admin/student_edit.php on line 76
+[14-Aug-2018 01:19:26 Asia/Dhaka] PHP Fatal error:  Cannot use object of type stdClass as array in /home/freelan1/public_html/borno/application/views/admin/student_edit.php on line 78
+[14-Aug-2018 01:22:24 Asia/Dhaka] PHP Fatal error:  Function name must be a string in /home/freelan1/public_html/borno/application/views/admin/student_edit.php on line 78
+[14-Aug-2018 11:15:13 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '>' in /home/freelan1/public_html/borno/application/views/admin/student_edit.php on line 77
+[14-Aug-2018 11:28:25 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '}' in /home/freelan1/public_html/borno/application/views/admin/student_edit.php on line 75
+[14-Aug-2018 13:00:43 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '<' in /home/freelan1/public_html/borno/application/views/front/std_info.php on line 406
+[13-Oct-2018 11:08:26 Asia/Dhaka] PHP Fatal error:  Call to a member function get_data() on null in /home/freelan1/public_html/borno/application/controllers/Students.php on line 20
+[13-Oct-2018 11:08:27 Asia/Dhaka] PHP Fatal error:  Call to a member function get_data() on null in /home/freelan1/public_html/borno/application/controllers/Students.php on line 20
+[13-Oct-2018 11:09:26 Asia/Dhaka] PHP Fatal error:  Call to a member function get_data() on null in /home/freelan1/public_html/borno/application/controllers/Students.php on line 20
+[08-Jul-2019 15:33:55 Asia/Dhaka] PHP Fatal error:  Call to undefined function get_phrase() in /home/freelan1/public_html/tms/application/controllers/Admin.php on line 245
+[08-Jul-2019 16:58:24 Asia/Dhaka] PHP Fatal error:  Call to undefined function get_settings() in /home/freelan1/public_html/tms/application/models/Ajaxdataload_model.php on line 247
+[08-Jul-2019 16:58:38 Asia/Dhaka] PHP Fatal error:  Call to undefined function get_settings() in /home/freelan1/public_html/tms/application/models/Ajaxdataload_model.php on line 247
+[08-Jul-2019 17:00:02 Asia/Dhaka] PHP Fatal error:  Call to a member function get_type_name_by_id() on null in /home/freelan1/public_html/tms/application/controllers/Admin.php on line 160
+[11-Jul-2019 17:06:31 Asia/Dhaka] PHP Fatal error:  Call to undefined function get_phrase() in /home/freelan1/public_html/tms/application/views/admin/modal_view_invoice.php on line 18
+[13-Jul-2019 13:50:42 Asia/Dhaka] PHP Parse error:  syntax error, unexpected '');' (T_ENCAPSED_AND_WHITESPACE) in /home/freelan1/public_html/tms/application/controllers/Modal.php on line 33
